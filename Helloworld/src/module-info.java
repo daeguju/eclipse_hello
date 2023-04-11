@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author hwangju
- *
- */
-module Helloworld {
-}
